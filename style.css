@@ -2,8 +2,6 @@
 .one{
     font-family: "Pixelify Sans", sans-serif;
     background: url("first wallpaper.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
     background-color: #221A0F;
     color: #4b8d23;
 }
