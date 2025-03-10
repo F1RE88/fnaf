@@ -2,12 +2,16 @@
 .one{
     font-family: "Pixelify Sans", sans-serif;
     background: url("first wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-reapeat;
     background-color: #221A0F;
     color: #4b8d23;
 }
 .two{
     font-family: "Pixelify Sans", sans-serif;
     background: url("about wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-reapeat;
     background-color: #221A0F;
     color: #4b8d23;
 }
